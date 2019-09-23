@@ -18,12 +18,5 @@
     "@expo/webpack-config": "^0.7.5",
     "babel-preset-expo": "^7.0.0"
   },
-  {
-  "sideEffects": 
-    [
-      "src/*",
-      "!src/components/*"
-    ],
-  },
   "private": true
 }
